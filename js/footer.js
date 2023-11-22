@@ -2,7 +2,8 @@ const footer = document.getElementById("footer");
 
 footer.innerHTML = 
 
-`<section class="leftContainer">
+`
+<section class="leftContainer">
         <ul>
             <li><h4>Aide</h4></li>
         </ul>
